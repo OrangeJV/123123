@@ -1,4 +1,4 @@
-*.iml
+test.iml
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
